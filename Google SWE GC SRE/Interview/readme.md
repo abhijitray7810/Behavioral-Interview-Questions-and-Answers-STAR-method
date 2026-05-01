@@ -5,7 +5,7 @@
 ---
 
 ## 📋 TABLE OF CONTENTS
-1. [Google Behavioral (Googleness) — STAR Format](#section-1)
+1. [Google Behavioral (Googleness) — STAR Format](#section-1) 
 2. [SRE Fundamentals & Reliability Engineering](#section-2)
 3. [Linux, Networking & Systems Engineering](#section-3)
 4. [Kubernetes, Containers & Service Mesh](#section-4)
