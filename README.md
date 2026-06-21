@@ -9,7 +9,7 @@
 - **Situation:** "Black Friday 2023, our e-commerce platform on ECS Fargate experienced 8-second response times during 5,000 RPS load. Customers reported timeouts and cart abandonment spiked."  
 - **Task:** "As on-call DevOps lead, I had to restore sub-300ms response times within 15 minutes to prevent revenue loss estimated at $3K/minute."
 - **Action:** 
-  - Checked CloudWatch: RDS CPU at 98% 
+  - Checked CloudWatch: RDS CPU at 98%  
   - Used RDS Performance Insights to identify missing indexes on new feature queries
   - Immediately scaled RDS from db.r5.xlarge to db.r5.2xlarge (hotfix)
   - Enabled ElastiCache Redis for product catalog caching
