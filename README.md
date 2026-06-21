@@ -6,7 +6,7 @@
 **Question:** Tell me about a time you resolved a critical production outage during peak traffic.
  
 **STAR Template:**
-- **Situation:** "Black Friday 2023, our e-commerce platform on ECS Fargate experienced 8-second response times during 5,000 RPS load. Customers reported timeouts and cart abandonment spiked." 
+- **Situation:** "Black Friday 2023, our e-commerce platform on ECS Fargate experienced 8-second response times during 5,000 RPS load. Customers reported timeouts and cart abandonment spiked."  
 - **Task:** "As on-call DevOps lead, I had to restore sub-300ms response times within 15 minutes to prevent revenue loss estimated at $3K/minute."
 - **Action:** 
   - Checked CloudWatch: RDS CPU at 98%
