@@ -12,7 +12,7 @@
   - Checked CloudWatch: RDS CPU at 98%  
   - Used RDS Performance Insights to identify missing indexes on new feature queries
   - Immediately scaled RDS from db.r5.xlarge to db.r5.2xlarge (hotfix)
-  - Enabled ElastiCache Redis for product catalog caching
+  - Enabled ElastiCache Redis for product catalog caching 
   - Created read replicas to offload traffic
 - **Result:** "Restored service in 18 minutes. Prevented ~$54K revenue loss. Query optimization reduced DB load 60%, improved performance 40%. Implemented pre-deployment load testing to prevent recurrence."
 
