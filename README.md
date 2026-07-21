@@ -1,5 +1,5 @@
 # Behavioral-Interview-Questions-and-Answers-STAR-method  
-
+ 
 ## **CATEGORY 1: INCIDENT RESPONSE & TROUBLESHOOTING (Questions 1-10)**
 
 ### **1. Critical Production Outage During Peak Traffic** 
