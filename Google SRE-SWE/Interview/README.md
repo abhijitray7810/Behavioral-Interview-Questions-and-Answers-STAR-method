@@ -21,7 +21,7 @@ Looking ahead, I want to grow into an SRE-SWE, DevOps, FDE role where I can work
 - [Part 3 — System Design](#part-3--system-design)
 - [Part 4 — Security / DevSecOps](#part-4--security--devsecops)
 - [Part 5 — Behavioural (STAR)](#part-5--behavioural-star)
-- [How to Use This Guide](#how-to-use-this-guide)
+- [How to Use This Guide](#how-to-use-this-guide) 
 - [Quick Reference — Key Formulas & Commands](#quick-reference--key-formulas--commands)
 
 ---
