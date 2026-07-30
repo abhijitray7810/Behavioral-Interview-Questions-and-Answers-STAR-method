@@ -47,7 +47,7 @@ This plan follows your requested structure: Week 1 (Leadership Principles, 50% w
 > **Situation:** .
 > **Task:** 
 > **Action:** .
-> **Result:** .
+> **Result:** 
 
 **Q4 (Dive Deep): "Tell me about the most technically complex problem you've debugged."**
 > Prepare a specific infrastructure debugging story from RoutineOps or PodPlate — e.g., a pipeline failure you traced to a specific root cause (config drift, resource limits, a bad manifest). If you don't have one memorized yet, write one out today using a real debugging session you've had.
