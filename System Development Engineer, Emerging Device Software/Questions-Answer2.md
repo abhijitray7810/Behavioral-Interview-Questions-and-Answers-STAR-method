@@ -45,7 +45,7 @@ This plan follows your requested structure: Week 1 (Leadership Principles, 50% w
 
 **Q3 (Dive Deep): "Tell me about a time you had to dig deep to find a root cause, not just a symptom."**
 > **Situation:** .
-> **Task:** I needed to find why errors kept slipping past review, not just flag more of them.
+> **Task:** 
 > **Action:** I audited a sample of mislabeled batches against the annotation spec, traced the errors to a specific set of ambiguous edge cases, and redesigned the QA review cycle with a targeted second-pass check for exactly those cases.
 > **Result:** Mislabeled-object rate dropped 18%, directly improving downstream model accuracy.
 
