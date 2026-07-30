@@ -44,7 +44,7 @@ This plan follows your requested structure: Week 1 (Leadership Principles, 50% w
 > Use your QA redesign story (see Day 3, Dive Deep) — ownership and dive deep often overlap; be ready to tell the same story with either emphasis depending on which principle the interviewer names.
 
 **Q3 (Dive Deep): "Tell me about a time you had to dig deep to find a root cause, not just a symptom."**
-> **Situation:** At RT Network Solutions, we had a persistent mislabeled-object rate quietly hurting downstream model training.
+> **Situation:** .
 > **Task:** I needed to find why errors kept slipping past review, not just flag more of them.
 > **Action:** I audited a sample of mislabeled batches against the annotation spec, traced the errors to a specific set of ambiguous edge cases, and redesigned the QA review cycle with a targeted second-pass check for exactly those cases.
 > **Result:** Mislabeled-object rate dropped 18%, directly improving downstream model accuracy.
