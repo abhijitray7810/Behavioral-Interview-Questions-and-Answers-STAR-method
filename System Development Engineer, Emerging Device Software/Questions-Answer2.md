@@ -46,7 +46,7 @@ This plan follows your requested structure: Week 1 (Leadership Principles, 50% w
 **Q3 (Dive Deep): "Tell me about a time you had to dig deep to find a root cause, not just a symptom."**
 > **Situation:** .
 > **Task:** 
-> **Action:** .
+> **Action:** 
 > **Result:** 
 
 **Q4 (Dive Deep): "Tell me about the most technically complex problem you've debugged."**
