@@ -44,7 +44,7 @@ This plan follows your requested structure: Week 1 (Leadership Principles, 50% w
 > Use your QA redesign story (see Day 3, Dive Deep) — ownership and dive deep often overlap; be ready to tell the same story with either emphasis depending on which principle the interviewer names.
 
 **Q3 (Dive Deep): "Tell me about a time you had to dig deep to find a root cause, not just a symptom."**
-> **Situation:** .
+> **Situation:** 
 > **Task:** 
 > **Action:** 
 > **Result:** 
