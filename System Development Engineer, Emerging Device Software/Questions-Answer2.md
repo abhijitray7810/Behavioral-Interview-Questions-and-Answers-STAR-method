@@ -1,5 +1,5 @@
 # 21-Day Amazon Lab126 SDE Interview Prep Plan
-**System Development Engineer, Emerging Device Software | Job ID: 10452432**
+**System Development Engineer, Emerging Device Software
 Prepared for: Abhijit Ray
 
 This plan follows your requested structure: Week 1 (Leadership Principles, 50% weight), Week 2 (Technical Deep Dive, 40% weight), Week 3 (Integration & Polish). Each day lists the must-know questions for that topic with full model answers, tailored to your resume (Aegis Stack, RoutineOps, PodPlate, RT Network Solutions QA work).
