@@ -88,7 +88,7 @@
 - **Result:** "Restored global traffic in 12 minutes. Implemented multi-region failover (RTO: 2 minutes). DNS resolution time improved from 200ms to 15ms."
 
 **Resume Tie-in:** "Designed resilient DNS architecture serving 500M+ daily queries across 6 regions."
-
+ 
 ---
 
 ### **6. Certificate Expiration Crisis**
