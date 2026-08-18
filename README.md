@@ -125,7 +125,7 @@
 
 **Resume Tie-in:** "Optimized petabyte-scale storage architecture, reducing costs 40% while improving performance."
 
----
+--- 
 
 ### **8. Network Partition in Multi-AZ Setup**
 **Question:** Describe resolving a network partition between availability zones.
