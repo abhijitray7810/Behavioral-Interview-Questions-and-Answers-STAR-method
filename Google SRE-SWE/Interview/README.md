@@ -6,7 +6,7 @@ Currently, I’m focused on building my skills in areas like automation, Kuberne
 
 Looking ahead, I want to grow into an SRE-SWE, DevOps, FDE role where I can work on large-scale infrastructure, improve system reliability, and contribute through automation. That’s one of the reasons I’m excited about Google, because of the scale of the systems, the engineering culture, and the strong focus on reliability through software.
 # 🚀 SRE + SWE Mock Interview Guide — Abhijit Ray
-
+ 
 > **Google SRE Book Aligned · 55 Questions · STAR Method · Fresher → Advanced**
 > Based on [Google SRE Book](https://sre.google/sre-book/table-of-contents/) | Projects: Aegis Stack · PodPlate · RoutineOps
 
