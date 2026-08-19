@@ -5,7 +5,7 @@ Format: **Q → A**, grouped by topic. Answers are written so you can speak them
 
 ---
 
-## Topic 1: TCP/IP & Core Networking
+## Topic 1: TCP/IP & Core Networking 
 
 **Q1. What happens when you type a URL in a browser and press enter?**
 A. The browser checks DNS cache, then queries a DNS resolver to get the server's IP. It opens a TCP connection via a 3-way handshake (SYN, SYN-ACK, ACK), performs a TLS handshake if HTTPS, sends an HTTP request, and the server responds with the page data over the established connection.
